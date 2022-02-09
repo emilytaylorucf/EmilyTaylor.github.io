@@ -1,0 +1,96 @@
+
+body{
+    background-color: #e2e2e2;
+}
+
+/*social media links*/
+.socials{
+    float: right;
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+.fa-facebook {
+    background: #469FAD;
+    color: white;
+  }
+.fa-linkedin {
+    background: #469FAD;
+    color: white;
+  }
+.fa:hover {
+    opacity: 0.7;
+    color: white;
+}
+
+/*index introduction*/
+.introduction{
+    padding: 20px;
+    text-align: center;
+    background-color: #e2e2e2;
+}
+.introcol{
+    padding: 20px;
+}
+.resume{
+    background: #469FAD;
+}
+.resume:hover{
+    opacity: 0.7;
+    color: white;
+}
+
+/*index about*/
+.aboutsection{
+    text-align: center;
+    background-color: #e2e2e2;
+}
+.personal{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+/*index skils*/
+.skillsintro{
+    text-align: center;
+    padding-top: 25px;
+    background-color: #e2e2e2;
+}
+.skillsection{
+    padding: 20px;
+    background-color: #e2e2e2;
+}
+.skillbar{
+    background: #469FAD;
+}
+
+/*contact page*/
+
+/*contact form*/
+.contactform{
+    text-align: center;
+    padding: 20px;
+}
+.submitbtn{
+    background: #469FAD;
+}
+.submitbtn:hover{
+    opacity: 0.7;
+    color: white;
+}
+
+/*works page*/
+.uiux{
+    padding: 20px;
+}
+.parkpro:hover{
+    opacity: 0.7;
+    color: white;
+}
+.webdev{
+    padding:20px;
+}
