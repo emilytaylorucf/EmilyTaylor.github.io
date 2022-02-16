@@ -1,4 +1,3 @@
-
 /*social media links*/
 .socials{
     float: right;
@@ -25,9 +24,9 @@
 
 /*index introduction*/
 .introduction{
-    padding: 20px;
-    text-align: center;
-    
+    padding-right: 80px;
+    padding-left: 80px;
+    text-align: center;   
 }
 .introcol{
     padding: 20px;
@@ -43,7 +42,8 @@
 /*index about*/
 .aboutsection{
     text-align: center;
-   
+    padding-right: 80px;
+    padding-left: 80px;
 }
 .personal{
     text-align: center;
@@ -54,19 +54,19 @@
 .skillsintro{
     text-align: center;
     padding-top: 25px;
+    padding-right: 80px;
+    padding-left: 80px;
     
 }
-.skillsection{
-    padding: 20px;
-    
-}
-.skillbar{
-    background: #469FAD;
+.skillssection{
+    padding-right: 80px;
+    padding-left: 80px;
 }
 
 /*contact page*/
 .contactinfo{
-    padding: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
 }
 .info{
     background-color: white;
@@ -86,13 +86,19 @@
 
 /*works page*/
 .uiux{
-    padding: 20px;
+    padding-bottom: 60px;
+    padding-right: 80px;
+    padding-left: 80px;
 }
 .webdev{
-    padding:20px;
+    padding-bottom: 60px;
+    padding-right: 80px;
+    padding-left: 80px;
 }
 .gamedes{
-    padding:20px;
+    padding-bottom: 60px;
+    padding-right: 80px;
+    padding-left: 80px;
 }
 
 
