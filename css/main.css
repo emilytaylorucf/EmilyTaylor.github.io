@@ -27,7 +27,7 @@
 .introduction{
     padding: 20px;
     text-align: center;
-    background-color: #e2e2e2;
+    
 }
 .introcol{
     padding: 20px;
@@ -43,7 +43,7 @@
 /*index about*/
 .aboutsection{
     text-align: center;
-    background-color: #e2e2e2;
+   
 }
 .personal{
     text-align: center;
@@ -54,11 +54,11 @@
 .skillsintro{
     text-align: center;
     padding-top: 25px;
-    background-color: #e2e2e2;
+    
 }
 .skillsection{
     padding: 20px;
-    background-color: #e2e2e2;
+    
 }
 .skillbar{
     background: #469FAD;
@@ -68,7 +68,9 @@
 .contactinfo{
     padding: 20px;
 }
-
+.info{
+    background-color: white;
+}
 /*contact form*/
 .contactform{
     text-align: center;
@@ -112,6 +114,7 @@
         height: 200px;
         width: 400px;
         padding-top: 20px;
+        padding-bottom: 20px
     }
     .gdesign{
         height: 200px;
