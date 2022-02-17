@@ -1,3 +1,4 @@
+
 /*social media links*/
 .socials{
     float: right;
@@ -61,6 +62,9 @@
 .skillssection{
     padding-right: 80px;
     padding-left: 80px;
+}
+ul{
+    list-style-type: none;
 }
 
 /*contact page*/
