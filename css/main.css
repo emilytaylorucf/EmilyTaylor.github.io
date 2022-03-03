@@ -161,4 +161,12 @@ ul{
         width: 400px;
         padding-top: 20px;
     }
+    .profile{
+        height: 200px;
+        width: 200px;
+    }
+    .avatar{
+        height: 200px;
+        width: 200px;
+    }
 }
